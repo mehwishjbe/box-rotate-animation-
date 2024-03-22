@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #14213d;
+  background-color: #e1e5f2;
 }
 
 .box {
@@ -19,6 +19,7 @@ body {
   width: 300px;
   height: 400px;
   align-items: center;
+  background-color: #022b3a;
 }
 
 .box h2 {
