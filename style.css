@@ -24,4 +24,5 @@ body {
 .box h2 {
   color: #e5e5e5;
   text-shadow: 2px 2px black;
+  font-size: 2em;
 }
