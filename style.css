@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #e1e5f2;
+  background-color: #001524;
 }
 
 .box {
@@ -26,4 +26,12 @@ body {
   color: #e5e5e5;
   text-shadow: 2px 2px black;
   font-size: 2em;
+}
+
+.box::before {
+  content: "";
+  position: absolute;
+  width: 170px;
+  height: 100%;
+  background: linear-gradient(#fca311, #de369d);
 }
