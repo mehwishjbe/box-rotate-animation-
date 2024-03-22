@@ -12,3 +12,9 @@ body {
   min-height: 100vh;
   background-color: #14213d;
 }
+
+.box{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
