@@ -1,12 +1,13 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    -ms-align-items: center;
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -ms-align-items: center;
+  min-height: 100vh;
 }
