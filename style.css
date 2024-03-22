@@ -10,4 +10,5 @@ body {
   align-items: center;
   -ms-align-items: center;
   min-height: 100vh;
+  background-color: #14213d;
 }
