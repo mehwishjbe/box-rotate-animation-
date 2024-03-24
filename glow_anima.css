@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: black;
+}
 
 .block {
   position: relative;
@@ -10,5 +13,5 @@
   width: 50%;
   height: 400px;
   background: linear-gradient(0deg, black, rgb(44, 38, 38));
+  border-radius: 10px;
 }
-
