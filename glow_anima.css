@@ -16,7 +16,8 @@ body {
   border-radius: 10px;
 }
 
-.glow::before {
+.glow::before,
+.glow::after {
   content: "";
   position: absolute;
   top: -2px;
